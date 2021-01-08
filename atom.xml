@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yorusakurai.github.io/yoru.github.io/</id>
     <title>YoruSakurai-夜照</title>
-    <updated>2021-01-08T09:33:34.158Z</updated>
+    <updated>2021-01-08T09:38:38.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yorusakurai.github.io/yoru.github.io/"/>
     <link rel="self" href="https://yorusakurai.github.io/yoru.github.io/atom.xml"/>
@@ -11,10 +11,10 @@
     <icon>https://yorusakurai.github.io/yoru.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, YoruSakurai-夜照</rights>
     <entry>
-        <title type="html"><![CDATA[arashi]]></title>
-        <id>https://yorusakurai.github.io/yoru.github.io/post/arashi/</id>
-        <link href="https://yorusakurai.github.io/yoru.github.io/post/arashi/">
+        <title type="html"><![CDATA[一条置顶]]></title>
+        <id>https://yorusakurai.github.io/yoru.github.io/post/yi-tiao-zhi-ding/</id>
+        <link href="https://yorusakurai.github.io/yoru.github.io/post/yi-tiao-zhi-ding/">
         </link>
-        <updated>2021-01-08T09:03:00.000Z</updated>
+        <updated>2021-01-08T09:34:42.000Z</updated>
     </entry>
 </feed>
