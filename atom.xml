@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yorusakurai.github.io/yoru.github.io/</id>
     <title>YoruSakurai-夜照</title>
-    <updated>2021-01-08T10:02:27.672Z</updated>
+    <updated>2021-01-08T10:14:59.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yorusakurai.github.io/yoru.github.io/"/>
     <link rel="self" href="https://yorusakurai.github.io/yoru.github.io/atom.xml"/>
@@ -16,12 +16,8 @@
         <link href="https://yorusakurai.github.io/yoru.github.io/post/yi-tiao-zhi-ding/">
         </link>
         <updated>2021-01-08T09:34:42.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>  大噶好我是夜照，这个站子是用来
+        <content type="html"><![CDATA[<pre><code>* 大噶好我是夜照，这个站子是用来存粮的、只写Arashi相关，有什么想看的梗都可以给俺说，有生之年一定会写，希望大家在2021 年休团期间也能每天快乐！
 </code></pre>
-<p>存粮的、只写Arashi相关，有什么想看<br>
-的梗都可以给俺说，有生之年一定会写，<br>
-希望大家在2021 年休团期间也能每天<br>
-快乐！</p>
 ]]></content>
     </entry>
 </feed>
