@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yorusakurai.github.io/yoru.github.io/</id>
-    <title>YoruSakurai-夜照</title>
-    <updated>2021-01-08T10:22:36.442Z</updated>
+    <title>关于翔君❤️❤️❤️🌸🌸🌸</title>
+    <updated>2021-02-07T17:45:13.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yorusakurai.github.io/yoru.github.io/"/>
     <link rel="self" href="https://yorusakurai.github.io/yoru.github.io/atom.xml"/>
-    <subtitle>arashi相关、杂食</subtitle>
+    <subtitle>❤️❤️❤️あなたに会いたい、あなたにキスしたい、あなたを深く愛している❤️❤️❤️</subtitle>
     <logo>https://yorusakurai.github.io/yoru.github.io/images/avatar.png</logo>
     <icon>https://yorusakurai.github.io/yoru.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, YoruSakurai-夜照</rights>
-    <entry>
-        <title type="html"><![CDATA[置顶]]></title>
-        <id>https://yorusakurai.github.io/yoru.github.io/post/zhi-ding/</id>
-        <link href="https://yorusakurai.github.io/yoru.github.io/post/zhi-ding/">
-        </link>
-        <updated>2021-01-08T10:19:38.000Z</updated>
-        <content type="html"><![CDATA[<p>大噶好我是夜照，这个站子是用来存粮的、只写Arashi相关，有什么想看的梗都可以给俺说，有生之年一定会写，希望大家在2021 年休团期间也能每天快乐！我的联系方式在首页的“关于”中可以查看</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2021, 关于翔君❤️❤️❤️🌸🌸🌸</rights>
 </feed>
